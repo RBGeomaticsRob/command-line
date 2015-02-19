@@ -1,0 +1,3 @@
+Allows you to find things inside a file
+grep [string to find] [location to look]
+can be used with regex such as ^ to look at the start of a line
