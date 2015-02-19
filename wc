@@ -1,0 +1,3 @@
+Counts the number of words / lines / char / bytes
+wc [Filename]
+Can use arguments such as -l to just count lines, by default counts words
