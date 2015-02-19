@@ -1,0 +1,2 @@
+Move a file (can also be used to rename a file if directory is not changed)
+mv [original file path] [new file path]
